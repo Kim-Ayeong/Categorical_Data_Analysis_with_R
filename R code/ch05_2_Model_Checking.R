@@ -1,5 +1,5 @@
-## Section 5.2 MODEL CHECKING
-setwd("~/01_LECTURE/14 ¹üÁÖÇüÀÚ·áºĞ¼®/½Ç½À R")
+ï»¿## Section 5.2 MODEL CHECKING
+setwd("~/01_LECTURE/14 ë²”ì£¼í˜•ìë£Œë¶„ì„/ì‹¤ìŠµ R")
 
 ## Section 5.2.2: GOF and the Deviance
 tab4.4 = scan(what=list(race="", azt="", yes=0, no=0)) # or you can read data into R using 'read.table()' function
